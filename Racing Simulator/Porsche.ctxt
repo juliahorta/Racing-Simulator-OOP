@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Porsche
+comment1.params=hp\ w\ sp
+comment1.target=Porsche(double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ acceleration()
+numComments=4
